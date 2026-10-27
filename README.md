@@ -10,6 +10,10 @@ A Java interview exercise about interfaces, concurrency, failure isolation, and 
 | Storage | In memory | PostgreSQL |
 | Transport | Simulated providers | Simulated providers |
 
+## Visual learning guide
+
+**[Design Evolution: diagrams and Java code after every follow-up](docs/DESIGN_EVOLUTION.md)** — starts with Email-only, walks through Follow-ups 1–7, and includes a conceptual RabbitMQ/Outbox extension.
+
 ## V1: run
 ```bash
 cd v1-concurrent-core
